@@ -1,0 +1,19 @@
+[
+     {
+        "question": "Which framework is related to Javascript",
+        "a": ".Net",
+        "b": "Flask",
+        "c": "React",
+        "d": "Ruby"
+    
+    },
+
+    {
+        "question": "Which is not a programming language",
+        "a": "HTML",
+        "b": "Python",
+        "c": "Java",
+        "d": "Javascript"
+        
+    }
+]

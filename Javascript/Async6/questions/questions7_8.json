@@ -1,0 +1,19 @@
+[
+     {
+        "question": "Which framework is used for mobile app development",
+        "a": "Codeigniter",
+        "b": "Django",
+        "c": "Flutter",
+        "d": "Laravel"
+        
+    },
+
+     {
+        "question": "Who invented C++",
+        "a": "James Gosling",
+        "b": "Bjarne stroustrup",
+        "c": "Dennis Ritchie",
+        "d": "Charles Babbage"
+        
+    }
+]

@@ -1,0 +1,19 @@
+[
+     {
+        "question": "Which one is a Javascript engine",
+        "a": "JSKit",
+        "b": "JSEngine",
+        "c": "Chakra",
+        "d": "ChromeKit"
+        
+    },
+
+     {
+        "question": "Who invented C Language",
+        "a": "James Gosling",
+        "b": "Bjarne stroustrup",
+        "c": "Dennis Ritchie",
+        "d": "Charles Babbage"
+        
+    }
+]

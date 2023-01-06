@@ -1,0 +1,47 @@
+[
+     {
+        "question": "Which framework is related to Javascript",
+        "a": ".Net",
+        "b": "Flask",
+        "c": "React",
+        "d": "Ruby"
+        
+    },
+
+    {
+        "question": "Which is not a programming language",
+        "a": "HTML",
+        "b": "Python",
+        "c": "Java",
+        "d": "Javascript"
+        
+    },
+
+    {
+        "question": "Which is not a framework",
+        "a": "React",
+        "b": "Javascript",
+        "c": "Angular",
+        "d": "Django"
+        
+    },
+
+    {
+        "question": "CSS Stands For",
+        "a": "Cascading Style State",
+        "b": "Cascading Style Sheet",
+        "c": "Cascading Style Short",
+        "d":"None of these"
+        
+    },
+    
+    {
+        "question": "Which one is a Javascript engine",
+        "a": "JSKit",
+        "b": "JSEngine",
+        "c": "Chakra",
+        "d": "ChromeKit"
+       
+    }
+
+]
